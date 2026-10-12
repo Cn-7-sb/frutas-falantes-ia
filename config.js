@@ -1,3 +1,3 @@
 var CONFIG = {
-  checkoutUrl: "https://kiwify.app/EuBqg00"
+  checkoutUrl: "https://pay.kiwify.com.br/HSlysBe"
 };
